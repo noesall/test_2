@@ -3,7 +3,7 @@
 
 ## 1. Разработать скрипт по запуску GOBUSTER по списку хостов
 ### Входные данные 
-  - инструмент поиска доменов GOBUSTER: ```[https://github.com/OJ/gobuster](https://github.com/OJ/gobuster?tab=readme-ov-file#dir-mode)```
+  - инструмент поиска доменов GOBUSTER: [```[https://github.com/OJ/gobuster](https://github.com/OJ/gobuster?tab=readme-ov-file#dir-mode)
   - hosts - список хостов для сканирования, можно взять из репы;
   - wordlist.txt - словарь для работы GOBUSTER, можно взять из репы.
 ### Выходные данные:
